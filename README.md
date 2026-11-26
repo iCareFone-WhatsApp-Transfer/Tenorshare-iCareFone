@@ -63,7 +63,7 @@ Preview a merged contact before applying a duplicate-contact operation.
 Two records with the same display name may represent different people.
 Retain an export of the original contact set when you need a reference for comparison.
 
-![A contact export preview showing multiple phone numbers and an email address](FOTO)
+![A contact export preview showing multiple phone numbers and an email address](overrides/01.jpg)
 
 For an icarefone iphone workflow, compare a detailed record rather than only the number of exported items.
 Open an older message or an unusual contact as well as a simple recent example.
@@ -92,7 +92,7 @@ The historical service references are [DTServices-14.2.txt](misc/DTServices-14.2
 [ddi_services.py](misc/ddi_services.py) describes generating developer-image service data.
 Their presence does not establish which content an iCareFone backup can restore.
 
-![A backup preview with selected records and separate computer and device destinations](FOTO)
+![A backup preview with selected records and separate computer and device destinations](overrides/02.jpg)
 
 Keep the retained backup distinct from the folder containing extracted pictures or spreadsheets.
 One is an application-recognized data source; the other contains files intended for direct use.
